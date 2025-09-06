@@ -35,15 +35,13 @@ It follows a structured QA workflow, covering everything from requirements analy
   - Key findings and conclusions  
 
 ---
-
 ## 📂 Repository Contents
-OrangeHRM-Manual-Testing/
-├── Test_Plan.pdf
-├── Test_Cases.xlsx
-├── Bug_Report.pdf
-├── RTM.xlsx
-└── Test_Summary_Report.pdf
-
+📘 [**Test Plan**](./Test_Plan.pdf) – Strategy, scope, objectives, and approach  
+🧾 [**Test Cases**](./Test_Cases.xlsx) – Step-by-step scenarios with expected results  
+🐞 [**Bug Report**](./Bug_Report.pdf) – Logged defects with severity & reproduction steps  
+📊 [**RTM (Traceability Matrix)**](./RTM.xlsx) – Mapping requirements to test cases  
+📑 [**Test Summary Report**](./Test_Summary_Report.pdf) – Execution results & conclusions  
+ 
 ## 🎯 Key Deliverables
 - **Test Plan**  
 - **Test Cases**  
